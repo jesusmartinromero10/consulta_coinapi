@@ -1,4 +1,4 @@
-import imp
+
 from criptoexchange.modelos import Cambio, ModelError, todoCoinApiIo
 from config import apikey
 
